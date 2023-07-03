@@ -1,6 +1,4 @@
-# teamNakya
-<<<<<<< HEAD
-shivam swami created mega Navbar with all lists
+# nykaa-clone
 =======
 
 
